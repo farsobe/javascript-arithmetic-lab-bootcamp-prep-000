@@ -26,10 +26,10 @@ function inc(n) {
 
 function dec(n) {
   // a function that decrements and returns n
-  return n--
+  return n --
 }
 
 function makeInt(n) {
   // a function that decrements and returns n
-  return parseInt(n)
+  return parseInt('n', 10)
 }
