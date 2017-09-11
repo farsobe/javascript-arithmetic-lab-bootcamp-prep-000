@@ -14,7 +14,7 @@ function multiply(a,b) {
   return a*b
 }
 
-function divides(a,b) {
+function divide(a,b) {
   // a function to divides two numbers
   return a/b
 }
