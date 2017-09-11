@@ -33,3 +33,8 @@ function makeInt(n) {
   // a function that decrements and returns n
   return parseInt(n, 10)
 }
+
+function preserveDecimal(n) {
+  // a function that preserves n's decimals (it parses n as a floating point number) and returns the parsed number
+  return parseFloat(n,10)
+}
